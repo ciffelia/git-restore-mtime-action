@@ -1,0 +1,7 @@
+name: git-restore-mtime
+description: Run git-restore-mtime
+
+runs:
+  using: composite
+  steps:
+    - run: curl -o- https://raw.githubusercontent.com/MestreLion/git-tools/v2022.07/git-restore-mtime | python
