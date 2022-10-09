@@ -1,5 +1,5 @@
 # git-restore-mtime-action
-GitHub Action for running git-restore-mtime
+GitHub Action for running [git-restore-mtime](https://github.com/MestreLion/git-tools)
 
 ## Example
 
